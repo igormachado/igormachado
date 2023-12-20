@@ -1,4 +1,4 @@
-### Igor Ferreira Brazil 👋
+### Igor Ferreira Software Developer 👋
 
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47x4rw3qlgxr3tlog41sez1yg7awa1dixoz7xx2urf&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200"/>
@@ -18,16 +18,28 @@
 
 
 ### :technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🇧🇷
 
-- :telescope: I’m a FullStack Developer and I am looking for a job.
+ <p class="w3-large">Iniciei minha jornada no mundo da tecnologia como Suporte de TI e aos poucos cheguei ao cargo de Analista de Infraestrtutura.
+                Porém, a área de desenvolvimento sempre chamou minha atenção com isso, decidi aprender e tinha que escolher qual caminho. 
+                Front-End, Back-End, Engenharia de Dados e etc...
+                Decidir iniciar nas áreas de Front-End e Back-End.
+</p>
+            
+          
+<strong>FullStack e Mobile</strong>
+         <p class="w3-large">Estou dedicando meus estudos voltado para área de FullStack, porque vejo conexão em aprender um projeto por completo.
+             E também estou dedicando os estudos na área Mobile, mas precisamente React Native. 
+             Porque a demanda por especialistas mobile sempre crescerá exponencialmente.
+         </p>
 
-- :seedling: Exploring Technical Content Writing.
-- 🤔 I’m currently learning NextJS, Redux and crypto in NodeJS. And I am buidlding a Desktop App that encrypt documents, files, videos and audio.
+- 🔭 Atualmente estou a procura de um emprego para atuar nas seguintes áreas: Back-end, Front-end ou FullStack
+- 🏗️ Estou trabalhando em projeto pessoal. Desenvolvendo uma aplicação Desktop para Linux/Windows/Mac que criptografa arquivos , fotos , aúdio e vídeo utilizando o NodeJS e o ElectronJS.
+- 🧑‍🎓 Estou aprofundando meus conhecimentos nas seguintes ferramentas: Redux, NextJS,React-hook-form e Nodejs.
 
-- :zap:  I solve problems on GeeksforGeeks, LeetCode, FreeCodeAcademy and read tech articles.
+- ⚡ Alterno meus estudos na resolução de problemas usando Typescript nas seguintes plataformas GeeksforGeeks, LeetCode, FreeCodeAcademy e em breve irei fazer vídeos e artigos.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igormachadoferreira/)
+- 📫  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igormachadoferreira/)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="40"/>&nbsp;
