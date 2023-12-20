@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: igormachado/blog-post-workflow@master
+      - uses: https://medium.com/@igormachadoferreria
         with:
           max_post_count: "20"
           feed_list: "https://medium.com/@igormachadoferreria/find-missing-and-repeating-7-pythonproblem-60872870e079"
