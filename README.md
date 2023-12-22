@@ -17,7 +17,7 @@
 </h1>
 
 
-### :technologist: About Me :
+### 👨‍💻 About Me :
 Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🇧🇷
 
  <p class="w3-large">Iniciei minha jornada no mundo da tecnologia como Suporte de TI e aos poucos cheguei ao cargo de Analista de Infraestrtutura.
