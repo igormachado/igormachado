@@ -21,7 +21,7 @@
 Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🇧🇷
 
  <p class="w3-large">Iniciei minha jornada no mundo da tecnologia como Suporte de TI e aos poucos cheguei ao cargo de Analista de Infraestrtutura.
-                Porém, a área de desenvolvimento sempre chamou minha atenção com isso, decidi aprender e tinha que escolher qual caminho. 
+                Porém, a área de desenvolvimento sempre chamou minha atenção com isso, decidi aprender e tinha que escolher qual caminho?. 
                 Front-End, Back-End, Engenharia de Dados e etc...
                 Decidir iniciar nas áreas de Front-End e Back-End.
 </p>
